@@ -1,0 +1,20 @@
+.container {
+    height: 100vh; 
+    width: 20rem !important;
+}
+.square {
+    width: 200px;
+    height: 200px;
+    background: black;
+}
+.rectangle {
+    width: 220px;
+    height: 120px;
+    background: black;
+}
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: black;
+}
